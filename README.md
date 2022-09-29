@@ -1,3 +1,3 @@
-Simple web page assignment  
+Simple css web page assignment  
 
-Watch if you want 😄😄 https://ankitkumarsingh007.github.io/Cricket-Club/
+Watch if you want 😄😄 https://abdul2744.github.io/cricket_club/
